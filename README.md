@@ -1,4 +1,4 @@
-(./your-header-image-name.png)
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building full-stack web applications and growing as a Software Engineer.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, real-world applications, and developer-focused projects.<br><br>🤝 I’m looking for help with<br>Clean code, scalable architecture, backend development, and software engineering best practices.<br><br>🌱 I’m currently learning<br>TypeScript • React • Next.js • Node.js • Databases • Backend Development<br><br>💬 Ask me about<br>Full Stack Web Development, React, TypeScript, Git & GitHub, and my developer journey.<br><br>⚡ Fun fact<br>I believe consistent learning + building real projects is the fastest way to grow. 🚀
