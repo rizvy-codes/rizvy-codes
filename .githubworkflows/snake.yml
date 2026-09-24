@@ -1,31 +1,39 @@
 name: Generate Contribution Snake
 
 on:
+  schedule:
+    - cron: "30 18 * * 0"
+
+  workflow_dispatch:
+
   push:
     paths:
-      - 'README.md'
-      - '.github/workflows/snake.yml'
-  schedule:
-    - cron: '30 18 * * 0'
-  workflow_dispatch:
+      - "README.md"
+      - ".github/workflows/snake.yml"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: rizvy-codes
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=ef4444&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
-            dist/github-contribution-grid-snake-dark.svg?color_snake=ef4444&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake.svg?color_snake=6366f1&color_dots=%23ebedf0,%23c7d2fe,%23818cf8,%236366f1,%234c1d95
+            dist/github-contribution-grid-snake-dark.svg?color_snake=a78bfa&color_dots=%23161b22,%23312e81,%236366f1,%23818cf8,%23c4b5fd
+
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
