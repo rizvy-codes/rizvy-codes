@@ -19,18 +19,15 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: rizvy-codes
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=6366f1&color_dots=%23ebedf0,%23c7d2fe,%23818cf8,%236366f1,%234c1d95
             dist/github-contribution-grid-snake-dark.svg?color_snake=a78bfa&color_dots=%23161b22,%23312e81,%236366f1,%23818cf8,%23c4b5fd
 
-      - name: Publish snake
+      - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
