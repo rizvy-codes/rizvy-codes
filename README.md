@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Redowan%20Ahmed%20Rizvy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%20%E2%80%A2%20Learning%20%E2%80%A2%20Improving%20%E2%80%A2%20Repeating%20%F0%9F%9A%80" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Grow%20%E2%80%A2%20Innovate" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -127,4 +127,5 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
+
 
