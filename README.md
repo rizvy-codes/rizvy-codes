@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rizvy
+# 👋 Hi, I'm Redowan Ahmed Rizvy
 
 <h3 align="center">
   Full Stack Web Developer | Aspiring Software Engineer
@@ -6,15 +6,6 @@
 
 <p align="center">
   Building • Learning • Improving • Repeating 🚀
-</p>
-
-<p align="center">
-  <a href="https://github.com/rizvy-codes">
-    <img src="https://img.shields.io/badge/GitHub-rizvy--codes-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/redowan-ahmed-rizvy-292534305/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -41,33 +32,9 @@ I believe consistent learning + building real projects is the fastest way to gro
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.facebook.com/profile.php?id=61558451184712">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/redowan-ahmed-rizvy-292534305/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/RidowanR83136">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://github.com/rizvy-codes">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
 # 💻 Tech Stack
 
-### Frontend
+## 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -76,22 +43,112 @@ I believe consistent learning + building real projects is the fastest way to gro
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend
+---
+
+## ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+### Backend Concepts
+
+- Modular Pattern
+- REST API Development
+- API Integration
+- Middleware
+- Error Handling
+- Authentication & Authorization
+- Server-side Architecture
+
+---
+
+## 🗄️ Database & Data Management
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Database Skills
+
+- MongoDB
+- Mongoose / ODM
+- MySQL
+- Database Design
+- CRUD Operations
+- Data Modeling
+- Relationships & Queries
+
+---
+
+## 🎨 UI Libraries
+
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge)
+
+### UI Skills
+
+- Hero UI
+- shadcn/ui
+- Responsive UI
+- Component-Based Design
+- Modern UI Development
+
+---
+
+## 🔐 Authentication & Security
+
+![Better Auth](https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-7C3AED?style=for-the-badge)
+
+### Security Skills
+
+- Better Auth
+- Authentication
+- Authorization
+- Role Based Access Control (RBAC)
+- Protected Routes
+- User Permissions
+- Secure API Access
+
+---
+
+## 🧠 Advanced Concepts
+
+### Development Concepts
+
+- DOM vs BOM
+- AI Mindset Development
+- AI Integration
+- AI-Assisted Coding
+- Problem Solving
+- Clean Code
+- Reusable Components
+- Software Engineering Practices
+
+---
+
+## 💳 Payment & Testing
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0066FF?style=for-the-badge)
+
+### Payment & Testing Skills
+
+- Stripe
+- SSLCommerz
+- Payment Gateway Integration
+- Introduction to Testing
+- API Testing
+- Basic Application Testing
+
+---
+
+## 🛠️ Tools & Development Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -148,7 +205,7 @@ I believe consistent learning + building real projects is the fastest way to gro
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=rizvy-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+    src="https://github-profile-trophy.vercel.app/?username=rizvy-codes&theme=radical&no-frame=true&no-bg=true&margin-w=4"
     alt="GitHub Trophies"
   />
 </p>
@@ -192,10 +249,10 @@ I believe consistent learning + building real projects is the fastest way to gro
 
 ```text
 Full Stack Web Development
-        ↓
+          ↓
 Software Engineering
-        ↓
+          ↓
 Backend & System Design
-        ↓
+          ↓
 AI Engineering
 
