@@ -28,34 +28,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-name: Generate Contribution Snake
-
-on:
-  push:
-    paths:
-      - 'README.md'
-      - '.github/workflows/snake.yml'
-  schedule:
-    - cron: '30 18 * * 0'
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rizvy-codes
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=ef4444&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
-            dist/github-contribution-grid-snake-dark.svg?color_snake=ef4444&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
